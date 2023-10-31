@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Header from "./components/header";
+import Header from "./components/Header";
 import ShowConcepts from "./components/ShowConcepts";
 import Tabbutton from "./components/Tabbutton";
 import { EXAMPLES } from "./data";
